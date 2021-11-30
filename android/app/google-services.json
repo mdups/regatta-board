@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998452034860",
+    "firebase_url": "https://sailingsnn.firebaseio.com",
+    "project_id": "sailingsnn",
+    "storage_bucket": "sailingsnn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998452034860:android:c56ffdb6ecd0a205d5c089",
+        "android_client_info": {
+          "package_name": "com.curtisadam.regattaboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998452034860-j808ufqe593h4v76itc3guen6qf2c7er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAohFBECn2oOzX6p9ynxfucUg654czdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998452034860-j808ufqe593h4v76itc3guen6qf2c7er.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998452034860-jk8pj4nm0rjtfaperhp1ec4m322ubrfa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jefferyadam.regattaboard",
+                "app_store_id": "1494427426"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
