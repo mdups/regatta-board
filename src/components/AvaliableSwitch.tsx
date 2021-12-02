@@ -9,6 +9,7 @@ const AvaliableSwitch = () => {
         setIsSwitchOn(!isSwitchOn)
     }
     
+    
     return(
         <View> 
             <View style={{flexDirection:'row'}}>
